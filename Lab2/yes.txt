@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 yes
-=======
-This should only be visible in this branch?
->>>>>>> refs/heads/Testing
